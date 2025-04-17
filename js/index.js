@@ -1,4 +1,4 @@
-const apiKey = 'You_ApiKey';
+const apiKey = '1293391a86400d59b448492e';
 
 function fetchExchangeRate() {
     console.log(1);
